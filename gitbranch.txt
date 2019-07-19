@@ -1,0 +1,6 @@
+git 分支是个非常神奇的东西；
+
+1. git branch branchname  来创建一个分支
+2. git checkout branchname 来切换分支
+   git branch -b branchname 代表创建并切换分支（第一点和第二点的集合）；
+3. git branch  用来查看当前的分支，带星号的代表目前正在使用的分支；
